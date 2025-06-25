@@ -3,7 +3,8 @@
 ## Overview
 This project showcases a dynamic sales and profit dashboard built using Microsoft Excel. It involves data cleaning, analysis, and visualization to uncover key business insights. The dashboard helps track performance over time, identify top-selling products, monitor profit trends, and support informed decision-making.
  #### Screenshot
- ![image](https://github.com/user-attachments/assets/33e2e45d-2a6a-4fa3-a7b2-94421e07a5c4)
+![image](https://github.com/user-attachments/assets/137f6226-50a6-44b5-940e-76cf352a84c3)
+
  ## Project Description 
  Sales analysis is crucial for evaluating business performance, identifying trends, and guiding strategic decisions.
 In this project, Microsoft Excel was used to clean, pre-process, and analyze sales data, followed by the creation of a dynamic dashboard that visualizes key performance indicators (KPIs) such as:
